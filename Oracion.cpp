@@ -44,9 +44,7 @@ Oracion::Oracion(string txt){
     this->verbo = verbo;
     this->sujeto = sujeto;
     //validar frase
-    string fraseFinal = this->sujeto->getPalabra() + " " + verbo->getPalabra() + " " + this->predicado;
-    cout<<fraseFinal<<endl;
-    cout<<txt<<endl;   
+    string fraseFinal = this->sujeto->getPalabra() + " " + verbo->getPalabra() + " " + this->predicado;  
     if(fraseFinal == txt+"  "){
         cout<<"Oracion simple valida"<<endl;
     }else{
