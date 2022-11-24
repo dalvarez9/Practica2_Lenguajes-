@@ -1,1 +1,454 @@
-
+ yo 
+ él 
+ ella 
+ eso 
+ tú 
+ nosotros 
+ ellos 
+ ellas 
+ ustedes 
+ Hugo 
+ Martín 
+ Mateo 
+ Leo 
+ Alejandro 
+ Adrián 
+ Mario 
+ Enzo 
+ Diego 
+ Izan 
+ Javier 
+ Marco 
+ Álex 
+ Bruno 
+ Oliver 
+ Miguel 
+ Thiago 
+ Marc 
+ Carlos 
+ Ángel 
+ Gonzalo 
+ Gael 
+ Sergio  
+ Nicolás 
+ Dylan 
+ Jorge 
+ José 
+ Adam 
+ Liam 
+ Eric 
+ Samuel 
+ Darío 
+ Luca 
+ Iker 
+ Amir 
+ Rodrigo 
+ Saúl 
+ Víctor 
+ Francisco 
+ Iván 
+ Jesús 
+ Aarón 
+ Rubén 
+ Ian 
+ Guillermo 
+ Erik 
+ Mohamed 
+ Julen 
+ Luis 
+ Pau 
+ Unai 
+ Rafael 
+ Joel 
+ Alberto 
+ Pedro 
+ Raúl 
+ Aitor 
+ Santiago 
+ Rayan  
+ Pool 
+ Nil 
+ Noah 
+ Jan 
+ Asier 
+ Fernando 
+ Alonso 
+ Matías 
+ Biel 
+ Axel 
+ Ismael 
+ Marti 
+ Arnau 
+ Imran 
+ Luka 
+ Ignacio 
+ Aleix 
+ Alan  
+ Omar 
+ Isaac 
+ Youssef 
+ Jon 
+ Teo 
+ Mauro 
+ Óscar 
+ Cristian 
+ Leonardo 
+ Abel 
+ Carlos 
+ César 
+ Bruno 
+ Daniel  
+ Darío 
+ David 
+ Emilio 
+ Fabián 
+ Felipe 
+ Gabriel 
+ Héctor 
+ Jacobo 
+ Jaime 
+ Joaquín 
+ Juan 
+ Lucas 
+ Marcos 
+ Pablo 
+ Raúl 
+ Samuel 
+ Santiago 
+ Sebastián 
+ Tomás 
+ Tristán 
+ Joan 
+ Andrés 
+ Ricardo 
+ Manuel 
+ Ezequiel 
+ Francisco 
+ Elías 
+ Blas 
+ Alfonso 
+ Ulises 
+ Gerardo 
+ Alfredo 
+ Álvaro  
+ Amadeo 
+ Amancio 
+ Antonio 
+ Baltasar 
+ Beltrán 
+ Benito 
+ Rufino 
+ Boris 
+ Camilo 
+ Ciro 
+ Conrado 
+ Donato 
+ Lucía  
+ Sofía 
+ Martina 
+ María 
+ Julia 
+ Paula 
+ Valeria 
+ Emma 
+ Daniela 
+ Carla  
+ Alba 
+ Noa 
+ Alma 
+ Sara 
+ Carmen 
+ Vega 
+ Lara 
+ Mia 
+ Valentina 
+ Olivia 
+ Claudia 
+ Jimena  
+ Lola 
+ Chlóe 
+ Aitana 
+ Abril 
+ Ana 
+ Laia 
+ Triana 
+ Candela 
+ Alejandra 
+ Elena 
+ Vera 
+ Manuela 
+ Adriana 
+ Inés 
+ Marta 
+ Carlota 
+ Irene 
+ Victoria 
+ Blanca 
+ Marina 
+ Laura 
+ Rocío 
+ Alicia 
+ Clara 
+ Nora 
+ Lía 
+ Ariadna 
+ Zoe 
+ Amira 
+ Gala 
+ Celia 
+ Leire 
+ Eva 
+ Ángela 
+ Andrea 
+ África 
+ Luna 
+ Ainhoa 
+ Ainara 
+ India 
+ Nerea 
+ Ona 
+ Elsa  
+ Isabel 
+ Leyre 
+ Gabriela 
+ Aina 
+ Cayetana 
+ ria 
+ Jana 
+ Mar 
+ Cloe 
+ Lina 
+ Julieta 
+ Adara 
+ Naia 
+ Iris 
+ Nour 
+ Mara 
+ Helena 
+ Yasmín 
+ Natalia 
+ Arlet 
+ Diana 
+ Aroa 
+ Amaia 
+ Cristina 
+ Nahia 
+ Isabella 
+ Malak 
+ Elia 
+ Carolina 
+ Berta 
+ Fátima 
+ Nuria 
+ Azahara 
+ Macarena 
+ Aurora 
+ el día 
+ el carro 
+ la cancha de futbol 
+ la casa 
+ el avion
+ la cama 
+ la niña 
+ el niño 
+ los niños 
+ las niñas 
+ los papás 
+ mi mama 
+ mi papa 
+ mis hermanos 
+ los hijos 
+ la cancha 
+ el patio 
+ los hombres 
+ las mujeres 
+ los padres 
+ las madres 
+ el chico 
+ la chica 
+ el balon 
+ el hombre 
+ el tio 
+ mi tio 
+ la tia 
+ mi tia 
+ la abuela 
+ mi abuela 
+ el papa 
+ la mama 
+ el partido 
+ la calle 
+ el edificio 
+ el arbol 
+ la mesa 
+ el bolso 
+ el celular 
+ el computador 
+ el trabajo 
+ el empleo 
+ el estudiante 
+ el joven 
+ la joven 
+ el fin 
+ la almohada 
+ la vela 
+ el teclado 
+ la cortina 
+ el vaso 
+ los primos 
+ mis primos 
+ sus primos 
+ las primas 
+ mis primas 
+ mi hermano 
+ mi hermana 
+ mis hermanas 
+ la lampara 
+ el jarron 
+ los zapatos 
+ el parque 
+ la regla 
+ el espejo 
+ el baño 
+ el bus 
+ el estacionamiento 
+ el parqueadero 
+ el coche 
+ la moto 
+ la universidad 
+ el colegio 
+ la escuela 
+ el auto 
+ la cabaña 
+ la botella 
+ el alcohol 
+ la blusa 
+ la corona 
+ la sobrina 
+ el gato 
+ el tigre 
+ el leon 
+ el perro 
+ el raton 
+ el buho 
+ los flamencos 
+ la alpaca 
+ los pollitos 
+ la gallina 
+ el toro 
+ la vaca 
+ la llama 
+ el oso 
+ los patos 
+ las gatas 
+ las abejas 
+ la mariposa 
+ la mosca 
+ el hamster 
+ la serpiente 
+ el hipopotamo 
+ el aguila 
+ el oso polar 
+ el camello 
+ los pajaros 
+ el cigarrillo 
+ la canddela 
+ el basurero 
+ los dulces 
+ el cargador 
+ la patineta 
+ el zorro 
+ la plancha 
+ el labial 
+ el maquillaje 
+ los cepillos 
+ el cabello 
+ el cuaderno 
+ el marcador 
+ el carpincho 
+ la pantera 
+ el koala 
+ el oso hormiguero 
+ las hormigas 
+ la pantalla 
+ el mouse 
+ la tapa 
+ la olla 
+ el plato 
+ el panda 
+ el camaleon 
+ la avestruz 
+ el elefante 
+ los cocodrilos 
+ las luciernagas 
+ los leopardos 
+ las jirafas 
+ la nutria 
+ el herizo 
+ las suricatas 
+ el simio 
+ el bufalo 
+ las uñas 
+ los libros 
+ el girasol 
+ la rosa 
+ los claveles 
+ los colores 
+ la iglesia 
+ el parque acuatico 
+ los peces 
+ el aire
+ la mascota
+ el candado 
+ las llaves
+ el iman
+ el metal 
+ el oro
+ las teclas
+ la bombilla 
+ el foco 
+ el borrador 
+ el sacapuntas 
+ el cuchillo 
+ el tenedor 
+ el señor 
+ la señora 
+ el infante 
+ el adulto 
+ Javier 
+ Amalia 
+ Janeth 
+ Elian 
+ Ana 
+ liliana 
+ la suegra 
+ el termo 
+ los cables 
+ el pan 
+ las salsas 
+ la musica 
+ el hielo 
+ el atardecer 
+ la nube 
+ las monedas 
+ los billetes 
+ el hilo 
+ los tios 
+ las paginas 
+ los vasos 
+ el cantante 
+ el guitarrista 
+ la cartera 
+ la galleta 
+ los gritos 
+ el motor 
+ la musica 
+ la podadora 
+ la lavadora 
+ la licuadora 
+ el vaso 
+ el agua 
+ el vidrio 
+ el fuego 
+ el reflejo 
+ mi suegra 
